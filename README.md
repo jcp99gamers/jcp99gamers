@@ -1,9 +1,7 @@
-### Hi there 👋
+Hi there 👋
 
-
-**jcp99gamers/jcp99gamers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Im Jonathan Chacko,
+Studying BCA at Symbiosis Institute of Computer Studies and Research...
 
 - 🔭 I’m currently working on Vyapari
 - 🌱 I’m currently learning Kotlin & Microsoft Power Automate
