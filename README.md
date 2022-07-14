@@ -1,10 +1,10 @@
 Hi there 👋
 
-Im Jonathan Chacko,
-Studying BCA at Symbiosis Institute of Computer Studies and Research...
+Im <a href="https://www.linkedin.com/in/jcp99gamer/">Jonathan Chacko</a>,
+Studying <b>BCA</b> at <i>Symbiosis Institute of Computer Studies and Research</i>...
 
-- 🔭 I’m currently working on Vyapari
-- 🌱 I’m currently learning Kotlin & Microsoft Power Automate
+- 🔭 I’m currently working on <a href="https://github.com/jcp99gamers/Vyapari">Vyapari</a>
+- 🌱 I’m currently learning <u>Kotlin</u> & <u>Microsoft Power Automate</u>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with <a href="mailto:ipp2021043@sicsr.ac.in">Mobile Application Development of Vyapari</a>
 - 💬 Ask me about my Skills
