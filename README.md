@@ -1,7 +1,7 @@
 Hi there 👋
 
 Im <a href="https://www.linkedin.com/in/jcp99gamer/">Jonathan Chacko</a>,
-Studying <b>BCA</b> at <i>Symbiosis Institute of Computer Studies and Research</i>...
+Currently pursuing final year of <b>Bachelor of Computer Applications</b> from <i>Symbiosis Institute of Computer Studies and Research Pune</i>. Programming is my passion & my core Skills are that I’m Ambitious, Confident, Competitive and a Team Player…
 
 - 🔭 I’m currently working on <a href="https://github.com/jcp99gamers/Vyapari">Vyapari</a>
 - 🌱 I’m currently learning <u>Kotlin</u> & <u>Microsoft Power Automate</u>
