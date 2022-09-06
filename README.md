@@ -12,4 +12,4 @@ Currently pursuing final year of <b>Bachelor of Computer Applications</b> from <
 - 😄 Hobbies: <a href="https://www.instagram.com/noxic.gamers/">Enjoy Content Creation & Video Editing</a>
 - ⚡ Fun fact: Tournament Level Gamer
 
-<p1>My Current Area Of Specialization Is MOBILE PROGGRAMING & AUTOMATION And I’m Looking For Internship With A Professional Organization To Develop My Skills And To Obtain Real-Time Work Experience.</p1>
+<h1>My Current Area Of Specialization Is MOBILE PROGGRAMING & AUTOMATION And I’m Looking For Internship With A Professional Organization To Develop My Skills And To Obtain Real-Time Work Experience.</h1>
